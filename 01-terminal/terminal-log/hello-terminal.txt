@@ -1,0 +1,5 @@
+Darwin
+hello camp
+ry7vv
+/Users/ry7vv
+git version 2.50.1
