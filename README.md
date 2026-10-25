@@ -2,9 +2,7 @@
 
 My exercise log from the Tuwaiq Academy bootcamp *Modern Software Engineering and AI Systems* (8 weeks, July to September 2026).
 
-The first weeks covered the working basics every engineer uses daily: the terminal, Git and GitHub, Python, and calling an API. Each exercise began as its own small repository. They are collected here so the profile stays focused. Every folder was imported with `git subtree`, so its original commit history is kept.
-
-The later weeks moved on to AI systems and automation. Those projects have their own repositories (see [Projects from the same bootcamp](#projects-from-the-same-bootcamp)).
+The first weeks covered the working basics every engineer uses daily: the terminal, Git and GitHub, Python, and calling an API. Each exercise began as its own small repository and was imported here with `git subtree`, so its original commit history is kept.
 
 ## Contents
 
@@ -33,16 +31,6 @@ The later weeks moved on to AI systems and automation. Those projects have their
 4. Run `login` first. It stores `ACCESS_TOKEN`, which the other requests send as a bearer token.
 
 The collection ships with empty credentials on purpose.
-
-## Projects from the same bootcamp
-
-| Repository | What it is |
-|---|---|
-| [n8n-expenses-mcp-server](https://github.com/RayanAlDwlah/n8n-expenses-mcp-server) | An MCP server in n8n that gives any MCP client persistent memory over Saudi bank-SMS expenses |
-| [n8n-idea-validation-agents](https://github.com/RayanAlDwlah/n8n-idea-validation-agents) | A five-agent idea-validation workflow in which two agents exist only to reject |
-| [n8n-saudi-jobs-digest](https://github.com/RayanAlDwlah/n8n-saudi-jobs-digest) | A daily Arabic digest of fresh-graduate tech jobs filtered from Saudi Telegram channels |
-
-The final project, **Manat**, was an Arabic voice and text assistant built by a team of three. It answers questions only from nine Saudi fatwa books, cites the book, and declines when no source supports an answer. Its repository is private.
 
 ---
 
